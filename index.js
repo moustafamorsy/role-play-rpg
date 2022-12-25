@@ -1,7 +1,7 @@
 
 import characterData from "./data.js";
 import Character from "./Character.js";
-import { result , getPercentage } from "./utils/dice.js";
+import { result , getPercentage } from "./dice.js";
 
 let monstersArray = ["orc", "demon", "goblin"];
 let isWaiting = false

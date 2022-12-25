@@ -1,4 +1,4 @@
-import {getDiceRollArray, getDicePlaceholder , getPercentage} from ".//utils/dice.js";
+import {getDiceRollArray, getDicePlaceholder , getPercentage} from "./dice.js";
 
 class Character{
 
